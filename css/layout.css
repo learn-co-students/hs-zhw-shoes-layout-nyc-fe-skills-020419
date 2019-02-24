@@ -39,10 +39,11 @@
   width: 620px
 }
 
-#details {
+.contact {
   display: block;
   width: 300px;
   float: left;
+  margin-left:10px;
 }
 
 
