@@ -25,3 +25,24 @@
 /* Positioning Classes */
 
 
+
+.column {
+  
+  display:block;
+  width:300px;
+  float:left;
+  margin:10px;
+   
+}
+
+.double {
+  width: 620px
+}
+
+#details {
+  display: block;
+  width: 300px;
+  float: left;
+}
+
+
